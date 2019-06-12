@@ -12,7 +12,7 @@ often looks like this::
     from advancedquery import map_document_structure
     from advancedquery import query
 
-    query.test()
+    query.test_query()
 
 (Note the double-colon and 4-space indent formatting above.)
 
